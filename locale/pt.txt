@@ -3,12 +3,12 @@
 ## Action
 
 ### URL
-LinkBehaviour_A93AADC8_B8B0_32C7_41E3_C67150F13ED5.source = https://api.whatsapp.com/send?phone=5522997321320&text=Ol%C3%A1%20!!%20Seja%20bem%20vindo%20%C3%A0%20Deu%20Sopa%20e%20BBQ.
+LinkBehaviour_A829B921_B988_5FDD_41E6_51B8AF67A82C.source = https://api.whatsapp.com/send?phone=5522997321320&text=Ol%C3%A1%20!!%20Seja%20bem%20vindo%20%C3%A0%20Deu%20Sopa%20e%20BBQ.
 LinkBehaviour_A932D262_B8B0_11CA_41C3_423C5F84E623.source = https://api.whatsapp.com/send?phone=5522997321320&text=Ol%C3%A1%20!!%20Seja%20bem%20vindo%20%C3%A0%20Deu%20Sopa%20e%20BBQ.
-LinkBehaviour_B56C1B2A_B8B0_775A_41C0_A041F6A0CC1A.source = https://maps.app.goo.gl/gqzcXMoSs6KfreWx7
 LinkBehaviour_AA292E06_B861_6DC4_41E1_2721744B6EA4.source = https://maps.app.goo.gl/gqzcXMoSs6KfreWx7
+LinkBehaviour_A9195A04_B988_5DDB_41DE_DC7632553078.source = https://maps.app.goo.gl/gqzcXMoSs6KfreWx7
 LinkBehaviour_AA3ED63A_B863_7DCD_41CC_A5F10D4F0D34.source = https://www.instagram.com/deusopaebbqburger/
-LinkBehaviour_B56F7B2A_B8B0_775A_41DA_C6195279325F.source = https://www.instagram.com/deusopaebbqburger/
+LinkBehaviour_ABACA66D_B988_F224_41D6_355D891F0F50.source = https://www.instagram.com/deusopaebbqburger/
 
 ## Media
 
@@ -34,12 +34,12 @@ panorama_BF147912_B57B_1702_41E0_7B00AFE428B8.label = 20240902_220251_729
 ## Skin
 
 ### Image
+Image_A8129A98_B978_32EC_41E6_36F21B0AAA71.url = skin/Image_A8129A98_B978_32EC_41E6_36F21B0AAA71_pt.png
+Image_A92617DB_B978_726C_41DF_775A519A1841.url = skin/Image_A92617DB_B978_726C_41DF_775A519A1841_pt.png
+Image_A92B20FC_B978_2E2B_41E5_8E9194DF4026.url = skin/Image_A92B20FC_B978_2E2B_41E5_8E9194DF4026_pt.png
 Image_A9C99533_B8F0_1349_41D9_7E02664CE543.url = skin/Image_A9C99533_B8F0_1349_41D9_7E02664CE543_pt.png
-Image_AA115F0D_B861_ABC7_41D4_3B7F41C5176B_mobile.url = skin/Image_AA115F0D_B861_ABC7_41D4_3B7F41C5176B_mobile_pt.png
 Image_AA115F0D_B861_ABC7_41D4_3B7F41C5176B.url = skin/Image_AA115F0D_B861_ABC7_41D4_3B7F41C5176B_pt.png
-Image_AA4C6EEA_B81E_AA4D_41AC_24DF33ADEE3F_mobile.url = skin/Image_AA4C6EEA_B81E_AA4D_41AC_24DF33ADEE3F_mobile_pt.png
 Image_AA4C6EEA_B81E_AA4D_41AC_24DF33ADEE3F.url = skin/Image_AA4C6EEA_B81E_AA4D_41AC_24DF33ADEE3F_pt.png
-Image_AB1D8754_B81E_BA44_41D5_EFA530AD32EA_mobile.url = skin/Image_AB1D8754_B81E_BA44_41D5_EFA530AD32EA_mobile_pt.png
 Image_AB1D8754_B81E_BA44_41D5_EFA530AD32EA.url = skin/Image_AB1D8754_B81E_BA44_41D5_EFA530AD32EA_pt.png
 Image_B700A7F1_B8F0_1EC6_41AF_F728C3F95B91.url = skin/Image_B700A7F1_B8F0_1EC6_41AF_F728C3F95B91_pt.png
 

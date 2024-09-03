@@ -1,4 +1,6 @@
 {
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Deu Sopa & BBQ",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF"
+ "name": "Deu Sopa & BBQ",
+ "display": "fullscreen"
 }
