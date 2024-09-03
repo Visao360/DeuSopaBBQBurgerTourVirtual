@@ -36,9 +36,9 @@
    "src": "misc/icon16.png"
   }
  ],
- "background_color": "#FFFFFF",
  "name": "Deu Sopa & BBQ",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
